@@ -1,2 +1,2 @@
-# kazu-fuji-dev.github.io
-under construction ......
+# Apps
+[AIトレンド解説](https://kazu-fuji-dev.github.io/)
